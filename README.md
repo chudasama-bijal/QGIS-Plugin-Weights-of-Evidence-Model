@@ -1,0 +1,1 @@
+# QGIS-Plugin-Weights-of-Evidence-Model
