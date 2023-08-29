@@ -14,6 +14,8 @@ The following are the links to the video demonstrations:
 
 **Data for this course is available at https://app.box.com/s/vmy10f90mosy0hzc8q8bkc0jgyguf0o6.**
 
+SGA 2023 Shourt Course Lectures: SC1: Geoscientific data analysis and mineral prospectivity mapping using open source geospatial applications (GisSOM and QGIS) for the same can be accessed here: https://nextcloud.gtk.fi/index.php/s/H5KBL7xLKzKbpT3
+
 Details of each of the above sessions are as follows:
 
 ## 2.3 Set up of WofE Plugin in QGIS and related installations - https://youtu.be/qqlYtdDS3W0 
